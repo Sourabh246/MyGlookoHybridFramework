@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="/Users/sourabhsharma/Downloads/automated_testing-Web_21.3/MyGlookoHybridFramework"><classes><class name="com.learnautomation.testcases.LoginTestGlooko"><methods><include name="loginApp"/></methods></class></classes></test></suite>
